@@ -2,6 +2,8 @@
 
 **TSEP** is a backward-compatible extension to SMTP that enables end-to-end encrypted email with graduated security levels. By decoupling identity and key management from email infrastructure, TSEP delegates authentication to third-party identity providers (banks, enterprise systems, or authentication apps).
 
+[Tiered Security Email Protocol (TSEP), Zenodo.org](https://zenodo.org/records/18721936)
+
 ## 🚀 Key Innovations
 
 * **Multi-Tier Security**: Three distinct security levels (Cached, Online, and Time-Bound) to balance convenience and protection.
