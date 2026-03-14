@@ -90,14 +90,6 @@ TSEP messages use a JSON-based envelope embedded in a standard email body using 
 
 ```
 
----
-
-## 🗺️ Roadmap
-
-* **Phase 1 (Months 1-6)**: Pilot with select identity providers and reference implementations.
-* **Phase 2 (Months 7-18)**: Expansion to major email clients (Gmail, Outlook, Apple Mail).
-* **Phase 3 (Months 19-36)**: Universal mainstream adoption and cross-institution testing.
-* **Phase 4 (Years 4+)**: IETF standardization and regulatory recognition (eIDAS, NIST).
 
 ---
 
